@@ -8,13 +8,13 @@ Welcome to my Profile:
 - 🤔 I’m looking for help with TUX (Linux) 🐧
 - ⚡ Fun fact: Linux runs on everything, smartphones, servers, submarines or space rockets 🚀
 - 🌐 127.0.0.1 🦾
-- 💬 Ask me about everything . I will try to help as best I can 😋 
+- 💬 Ask me about everything [**Here**](https://github.com/swaiist/swaiist/issues/new/choose)⏪ . I will try to help as best I can 😋 
 - 📫 How to reach me:
       - [GitHub](https://github.com/swaiist)
       - [GitLab](https://gitlab.com/swaiist)
       - [H1](https://hackerone.com/swaiist)
       - [Twitter](https://twitter.com/swaiist)
-      - 📧 (Coming Soon)
+      - 📧 (Coming Soon 💭)
 
 
 ⏭ "Pocos de nosotros somos lo que parecemos ..." - Agatha Christie
