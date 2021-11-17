@@ -1,4 +1,8 @@
+<h1 align="center">Hi 👋, I'm swaiist 🐱‍💻 </h1>
+<img align ="right" src="https://komarev.com/ghpvc/?username=swaiist&label=Profile%20views&color=0e75b6&style=flat" alt="swaiist">
+
 ### Hi there 👋
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Welcome to my Profile: 
 
@@ -16,12 +20,14 @@ Welcome to my Profile:
       - [Twitter](https://twitter.com/swaiist)
       - 📧 (Coming Soon 💭)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ⏭ "Pocos de nosotros somos lo que parecemos ..." - Agatha Christie
 
 ⏭ "Wer an die Freiheit des menschlichen Willens glaubt, hat nie geliebt und nie gehasst" - Marie von Ebener-Eschenbach
 
 ⏭ "Furcht führt zu Wut. Wut führt zu Hass. Hass führt zu unsäglichem Leid" - Yoda
+
 
 swaiist 👨‍💻
 ---
