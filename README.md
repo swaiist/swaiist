@@ -18,7 +18,6 @@ Welcome to my Profile:
       - [GitLab](https://gitlab.com/swaiist)
       - [H1](https://hackerone.com/swaiist)
       - [Twitter](https://twitter.com/swaiist)
-      - 📧 (Coming Soon 💭)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -31,7 +30,7 @@ Welcome to my Profile:
 
 swaiist 👨‍💻
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=swaiist&show_icons=true&theme=algolia)
+
 
 <!--
 **swaiist/swaiist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github stats](https://github-readme-stats.vercel.app/api?username=swaiist&show_icons=true&theme=algolia)
 -->
