@@ -19,7 +19,9 @@ Welcome to my Profile:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-⏭ "Pocos de nosotros somos lo que parecemos ..." - Agatha Christie
+⏭ "Pocos de nosotros somos lo que parecemos..." - Agatha Christie
+
+⏭ "Der Unterschied zwischen Vergangenheit, Gegenwart und Zukunft ist nur eine Illusion, wenn auch eine hartnäckige..." - Albert Einstein
 
 ⏭ "Wer an die Freiheit des menschlichen Willens glaubt, hat nie geliebt und nie gehasst" - Marie von Ebener-Eschenbach
 
