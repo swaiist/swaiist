@@ -15,7 +15,7 @@ Welcome to my Profile:
 - 💬 Ask me about everything [**Here**](https://github.com/swaiist/swaiist/issues/new/choose)⏪ . I will try to help as best I can 😋 
 - 📫 How to reach me:
       - [GitHub](https://github.com/swaiist)
-      - [Twitter](https://twitter.com/swaiist)
+      - [Twitter](https://x.com/swaiist)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
