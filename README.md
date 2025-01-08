@@ -11,11 +11,6 @@ Welcome to my Profile:
 - 👯 I’m looking to collaborate on Deblx 😎
 - 🤔 I’m looking for TUX (Linux) 🐧
 - ⚡ Fun fact: Linux runs on everything, smartphones, servers, submarines or space rockets 🚀
-- 🌐 127.0.0.1 🦾
-- 💬 Ask me about everything [**Here**](https://github.com/swaiist/swaiist/issues/new/choose)⏪ . I will try to help as best I can 😋 
-- 📫 How to reach me:
-      - [GitHub](https://github.com/swaiist)
-      - [Twitter](https://x.com/swaiist)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
