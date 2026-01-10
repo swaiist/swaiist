@@ -25,8 +25,7 @@ Welcome to my Profile:
 
 swaiist 👨‍💻
 
-[💝Support my work](https://prohosting24.de/cp/donate/swaiist) ||
-[🖧💻 I use ph24 as server host](https://prohosting24.de/a/swaiist)	(Affiliate link) ||
+[🖧💻 I recommend PH24](https://prohosting24.de/a/swaiist)	(Affiliate link) ||
 [🕵️‍♂️🌐💻 HackTheBox](https://referral.hackthebox.com/mz9dOS9) (Referral link)
 
 
