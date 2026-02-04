@@ -25,7 +25,6 @@ Welcome to my Profile:
 
 swaiist 👨‍💻
 
-[🖧💻 I recommend PH24](https://prohosting24.de/a/swaiist)	(Affiliate link) ||
 [🕵️‍♂️🌐💻 HackTheBox](https://referral.hackthebox.com/mz9dOS9) (Referral link)
 
 
