@@ -7,9 +7,6 @@
 Welcome to my Profile: 
 
 - 🔭 I’m currently working on some Unreal-Engine Projects 🥂
-- 🌱 I’m currently learning something special 💫
-- 👯 I’m looking to collaborate on Deblx 😎
-- 🤔 I’m looking for TUX (Linux) 🐧
 - ⚡ Fun fact: Linux runs on everything, smartphones, servers, submarines or space rockets 🚀
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
