@@ -19,5 +19,3 @@
 ⏭ "Furcht führt zu Wut. Wut führt zu Hass. Hass führt zu unsäglichem Leid" — Yoda
 
 **swaiist 👨‍💻**
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U01UGF3Y)
